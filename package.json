@@ -1,8 +1,7 @@
 {
   "name": "apache-couchdb-demo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Apache Couchdb Demo",
-  "main": "index.js",
   "scripts": {},
   "author": "João Neto <joaopintoneto@gmail.com>",
   "license": "MIT",
